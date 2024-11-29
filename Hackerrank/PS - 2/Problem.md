@@ -1,5 +1,4 @@
 
-```markdown
 # Understanding `if`, `if-else`, and `if-else if-else` in C/C++
 
 ## Overview
@@ -42,7 +41,6 @@ if (first_condition) {
 }
 ```
 
----
 
 ## Problem Statement
 
